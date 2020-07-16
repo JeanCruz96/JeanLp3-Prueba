@@ -11,3 +11,4 @@ def determinaraproado(promedio):
 
 promedio= int(input("promedio: "))
 print (determinaraproado(promedio))
+#muy bien jeancillo felicidades estas aprendiendo.
